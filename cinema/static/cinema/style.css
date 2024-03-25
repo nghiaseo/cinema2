@@ -1,0 +1,10 @@
+body{
+    height: 100vh;
+    padding: 24px;
+    margin: 0;
+    box-sizing: border-box;
+}
+.cinema-container{
+    border:1px solid black;
+    height: 100%;
+}
